@@ -1,2 +1,2 @@
 # LAB-1
-ESTRUCTURA HTML
+ESTRUCTURA HTML basica de pagina wed.
